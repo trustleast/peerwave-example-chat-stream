@@ -12,8 +12,6 @@ You can build the app for static distribution via `npm run build`
 
 The built application will be available in the `dist/` folder.
 
-A packaged zip will be available in the `bundle.zip` file in the root directory.
-
 ## Test
 
 You can test the app locally via `npm run dev`
